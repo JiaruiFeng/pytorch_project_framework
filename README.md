@@ -1,5 +1,5 @@
 # pytorch_project_framework
-In this repository, I simply build a general deep learning project framework contains common functions used for training, testing, and saving, I also offer log saver and tensorborad support function which is helpful in the project.
+This repository simply build a general deep learning project framework contains common functions used for training, testing, and saving. Scripts also offer log saver and tensorborad support functions which are helpful in the project.
 
 Many functions are adopted from https://github.com/minggg/squad
 
